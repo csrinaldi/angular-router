@@ -1,6 +1,9 @@
 # angular-router-demo
 Angular 6 Router Demo created with the Angular CLI.
 
+## POC
+Load in named router outlet a component configured how asynchronous
+
 ## How to use?
 
 You can simply clone this repo from the CLI:
